@@ -1,0 +1,28 @@
+    <style>
+
+    p {
+        color: black;
+        font-size:18px;
+        margin:0px;
+    }
+
+    a {
+        color: blue;
+    }
+
+    h1 {
+        color: blue;
+    }
+
+    body {
+        background: white;
+        font-family:"Roboto Slab";
+        padding:7px;
+    }
+
+    div#navbar {
+        margin:8px;
+        padding:7px;
+    }
+
+    </style>
